@@ -23,7 +23,7 @@
     "url": "https://github.com/5punk/react-slack-chat.git"
   },
   "homepage": "https://github.com/5punk/react-slack-chat#readme",
-  "author": "Avanish Pathak",
+  "author": "rotatordisk92",
   "license": "ISC",
   "husky": {
     "hooks": {
